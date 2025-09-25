@@ -30,7 +30,7 @@ export const FinalGoodbye = () => {
                 This website was made with 💚 to celebrate you and our amazing friendship.
               </p>
               <p className="text-accent text-xl font-bold animate-pulse-warm">
-                Happy Birthday Again, Dear Kothii! 🎉
+                Happy Birthday Again, Dear Jhansi (Kothii)! 🎉
               </p>
             </div>
             
@@ -47,7 +47,7 @@ export const FinalGoodbye = () => {
                 <br />
                 Even silent friends speak loud with their actions."
               </p>
-              <p className="text-sm text-accent mt-2">- From your forever well-wisher 🐒💚</p>
+              <p className="text-sm text-accent mt-2">- From your forever well-wisher, Tagili 🐒💚</p>
             </div>
           </div>
         </div>
@@ -61,7 +61,7 @@ export const FinalGoodbye = () => {
         </div>
         
         <p className="text-white/80 text-sm mt-8">
-          Made with love, memories, and a whole lot of jungle vibes 🌴
+          Made with love, memories, and jungle vibes by Tagili for Jhansi 🌴
         </p>
       </div>
     </section>

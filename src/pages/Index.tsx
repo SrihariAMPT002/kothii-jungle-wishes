@@ -1,7 +1,6 @@
 import { HeroSection } from "@/components/HeroSection";
 import { MemoryTimeline } from "@/components/MemoryTimeline";
 import { PersonalLetter } from "@/components/PersonalLetter";
-import { BirthdayExam } from "@/components/BirthdayExam";
 import { FinalGoodbye } from "@/components/FinalGoodbye";
 
 const Index = () => {
@@ -10,7 +9,6 @@ const Index = () => {
       <HeroSection />
       <MemoryTimeline />
       <PersonalLetter />
-      <BirthdayExam />
       <FinalGoodbye />
     </div>
   );

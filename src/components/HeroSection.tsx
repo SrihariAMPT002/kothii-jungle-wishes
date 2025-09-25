@@ -24,7 +24,7 @@ export const HeroSection = () => {
         {/* Main Title */}
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 animate-fade-in-up">
           Happy Birthday, 
-          <span className="block text-accent animate-pulse-warm">Dear Kothii! 🐵</span>
+          <span className="block text-accent animate-pulse-warm">Dear Jhansi (Kothii)! 🐵</span>
         </h1>
         
         {/* Subtitle */}
@@ -38,6 +38,8 @@ export const HeroSection = () => {
             Seven years of friendship, countless memories, and endless support... 
             <br />
             Today we celebrate not just your birthday, but the beautiful bond we share! 🌟
+            <br />
+            <span className="text-accent font-medium">With love from Tagili</span>
           </p>
         </div>
         

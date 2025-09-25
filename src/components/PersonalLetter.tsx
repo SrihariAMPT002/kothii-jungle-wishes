@@ -9,7 +9,7 @@ export const PersonalLetter = () => {
             A Note from Your Favorite Monkey Fan 🐒
           </h2>
           <p className="text-xl text-muted-foreground">
-            A heartfelt message, written with love and admiration
+            A heartfelt message from Tagili, written with love and admiration
           </p>
         </div>
         
@@ -18,7 +18,7 @@ export const PersonalLetter = () => {
           <CardContent className="p-8 md:p-12 bg-gradient-to-br from-card to-muted/20">
             <div className="space-y-6 text-lg leading-relaxed text-foreground">
               <p className="text-xl font-medium text-primary">
-                Dear Kothii, my wonderful friend 💚
+                Dear Jhansi (my wonderful Kothii), 💚
               </p>
               
               <p>
@@ -49,7 +49,7 @@ export const PersonalLetter = () => {
               <p>
                 Today, on your special day, I want you to know that no matter how far apart life takes us, 
                 you'll always have a special place in my heart. You're not just "Kothii" to me – you're 
-                a reminder of genuine kindness, academic brilliance, and the beautiful person you've always been.
+                Jhansi, a reminder of genuine kindness, academic brilliance, and the beautiful person you've always been.
               </p>
               
               <p className="text-xl font-medium text-coral">
@@ -59,13 +59,13 @@ export const PersonalLetter = () => {
               
               <div className="text-center mt-8 p-4 bg-accent/10 rounded-xl border border-accent/30">
                 <p className="font-semibold text-primary text-xl">
-                  Happy Birthday, Dear Kothii! 🎉
+                  Happy Birthday, Dear Jhansi (Kothii)! 🎉
                 </p>
                 <p className="text-muted-foreground mt-2">
                   With love, admiration, and endless good wishes,
                 </p>
                 <p className="text-secondary font-medium mt-1">
-                  Your forever well-wisher and monkey fan 🐒💚
+                  Your forever well-wisher and monkey fan, Tagili 🐒💚
                 </p>
               </div>
             </div>
