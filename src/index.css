@@ -8,35 +8,53 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
+    /* Jungle Theme Colors */
+    --background: 30 20% 98%;
+    --foreground: 140 30% 15%;
 
-    --card: 0 0% 100%;
-    --card-foreground: 222.2 84% 4.9%;
+    --card: 30 15% 96%;
+    --card-foreground: 140 30% 15%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 222.2 84% 4.9%;
+    --popover: 30 15% 96%;
+    --popover-foreground: 140 30% 15%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    /* Jungle Primary - Deep Forest Green */
+    --primary: 140 60% 25%;
+    --primary-foreground: 30 20% 98%;
 
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    /* Jungle Secondary - Warm Brown */
+    --secondary: 25 40% 45%;
+    --secondary-foreground: 30 20% 98%;
 
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215.4 16.3% 46.9%;
+    /* Jungle Muted - Light Green */
+    --muted: 120 30% 90%;
+    --muted-foreground: 140 20% 40%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    /* Jungle Accent - Golden Yellow */
+    --accent: 45 95% 65%;
+    --accent-foreground: 140 30% 15%;
+
+    /* Jungle Coral */
+    --coral: 15 85% 65%;
+    --coral-foreground: 30 20% 98%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --border: 120 20% 85%;
+    --input: 120 20% 85%;
+    --ring: 140 60% 25%;
 
-    --radius: 0.5rem;
+    /* Jungle Gradients */
+    --jungle-gradient: linear-gradient(135deg, hsl(140 60% 25%), hsl(120 50% 35%));
+    --sunrise-gradient: linear-gradient(135deg, hsl(45 95% 65%), hsl(25 80% 60%));
+    --leaf-gradient: linear-gradient(180deg, hsl(120 50% 40%), hsl(140 60% 25%));
+
+    /* Jungle Shadows */
+    --jungle-shadow: 0 10px 30px -10px hsl(140 60% 25% / 0.3);
+    --warm-shadow: 0 5px 20px -5px hsl(25 40% 45% / 0.2);
+
+    --radius: 1rem;
 
     --sidebar-background: 0 0% 98%;
 
